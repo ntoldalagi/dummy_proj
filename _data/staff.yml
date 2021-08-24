@@ -8,14 +8,14 @@ Instructors:
 # EducationAssociates:
 #     - name: Brynn Edmunds
 #       email: bedmunds@andrew.cmu.edu
-#       url: 
+#       url:
 #       office-hours: TBD
 #       image: staff/bedmunds.jpg
 
 TAs:
     - name: Conor Igoe
       email: cigoe@andrew.cmu.edu
-      url: 
+      url:
       office-hours: Monday 10:30AM - 11:30AM, Friday 2:00PM - 3:00PM
       image: staff/cigoe.jpg
       zoom:
@@ -41,5 +41,9 @@ TAs:
       image: staff/rki.jpg
       zoom:
 
-
-      
+    - name: Nick Toldalagi
+      email: ntoldala@andrew.cmu.edu
+      url:
+      office-hours: Wednesday 4:00PM - 5:00PM
+      image: staff/ntoldala.jpg
+      zoom:
